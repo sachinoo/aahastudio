@@ -5,7 +5,7 @@ import "./Header.css";
 import Logo from "../Images/logo.png";
 const Header = () => {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-success">
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
       <a class="navbar-brand" href="/">
         <img className="logo" src={Logo} />
       </a>
